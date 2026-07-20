@@ -1,6 +1,6 @@
 # LayeredForm
 
-Transparent windows in C#.
+Transparent windows in C#. You can also click through transparent regions.
 
 ## Usage
 
